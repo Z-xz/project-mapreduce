@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="algs4" type="kotlin.js">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../jdk/installationPackage/lib/algs4.jar!/" />
+    </SOURCES>
+  </library>
+</component>
